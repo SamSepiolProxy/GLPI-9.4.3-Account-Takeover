@@ -1,7 +1,7 @@
 # GLPI-9.4.3-Account-Takeover
 Discovery and original PoC made by Pablo Martinez just adjusted slightly for python3
 
-####Example
+#### Example
 python3 reset.py --url http://localhost/ --user normal --password normal --email glpi_adm --newpass test
 
 
