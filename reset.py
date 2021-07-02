@@ -143,7 +143,7 @@ class GlpiBrowser:
         
 if __name__ == '__main__':
     
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description='GLPI-9.4.3-Account-Takeover Script')
     parser.add_argument("--url", help="Target URL", required=True)
     parser.add_argument("--user", help="Username", required=True)
     parser.add_argument("--password", help="Password", required=True)
