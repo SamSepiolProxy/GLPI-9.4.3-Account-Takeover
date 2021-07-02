@@ -2,7 +2,7 @@
 Discovery and original PoC made by Pablo Martinez just adjusted slightly for python3
 
 #### Example
-python3 reset.py --url http://localhost/ --user normal --password normal --email glpi_adm --newpass test
+python3 reset.py --url http://localhost/ --user normal --password normal --email glpi_adm@test.com --newpass test
 
 
 Sofware: GLPI 
